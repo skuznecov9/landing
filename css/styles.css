@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.center {
+    padding-left: calc(50% - 1160px / 2);
+    padding-right: calc(50% - 1160px / 2);
+}
+
+body {
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+.top {
+    padding-top: 91px;
+    padding-bottom: 94px;
+    background-color: #7BBCF9;
+
+}
+
+.top__info {
+    color: #FFF;
+    font-family: 'Lato', sans-serif;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+
+
+}
+
+.title {
+    margin-top: 101px;
+    color: #FFF;
+    font-family: 'Lato', sans-serif;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+
+}
+
+
+.decide {
+    padding-top: 111px;
+
+}
+
+.decide__heading {
+    padding-bottom: 141px;
+
+    color: #7BBCF9;
+    font-family: 'Lato', sans-serif;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+
+}
+
+.decide_card:not(:last-child) {
+    margin-bottom: 47px;
+
+}
+
+.deside_card__number {
+    color: #7BBCF9;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+
+}
+
+.deside_card__heading {
+    color: #000;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    margin-bottom: 17px;
+    width: 460 px;
+
+}
+
+
+.deside_card__text {
+    width: 560px
+}
+
+
+.impression {
+    padding-top: 95px;
+    padding-bottom: 154px;
+}
+
+.impression__heading {
+    margin-bottom: 102px;
+}
+
+.impression__text {
+    width: 456px;
+
+}
+
+.heading {
+    color: #7BBCF9;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 130%;
+    /* 84.5px */
+}
+
+.text {
+    color: #676767;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+
+}
